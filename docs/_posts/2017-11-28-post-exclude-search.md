@@ -24,6 +24,6 @@ algolia:
     - index.html
     - index.md
     - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
+    - 2019-03-18-hypothesis-of-the-cosmic-egg.md
     - subdirectory/*.html
 ```
